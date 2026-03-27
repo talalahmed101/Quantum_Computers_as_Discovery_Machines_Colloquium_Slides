@@ -1,4 +1,4 @@
-# Quantum_Computers_as_Discovery_Machines_Slides
+# Quantum Computers as "Discovery" Machines
 Presentation slides from Colloquium given at East Texas A&amp;M University (Jan 29, 2026) and New Mexico State University (Feb 26, 2026)
 
 Title: Quantum Computers as “Discovery” machines
